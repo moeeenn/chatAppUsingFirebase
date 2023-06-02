@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840458921935",
+    "project_id": "simple-chat-2-7f9b8",
+    "storage_bucket": "simple-chat-2-7f9b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840458921935:android:da18f31ede045929a554ba",
+        "android_client_info": {
+          "package_name": "com.example.myapplication20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840458921935-mq3q4n2u6kt23ch09d7alfha4cu4iqmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpEnmtU8XEInr_1SSkgZtNnnUmUcmuCNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840458921935-mq3q4n2u6kt23ch09d7alfha4cu4iqmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
